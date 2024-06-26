@@ -1,0 +1,1 @@
+# fajero_otus_python
